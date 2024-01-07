@@ -135,3 +135,41 @@
     padding-top: 70px;
     padding-left: 40px;
 }
+
+/* Event Section */
+.event {
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    margin: auto;
+    width: 1320px;
+    height: 482px;
+    margin-top: 120px;
+    border-radius: 10px;
+}
+
+.event h3 {
+    text-align: center;
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+    padding-top: 120px;
+}
+
+.event span {
+    color: #F00;
+}
+
+.event button {
+    padding: 16px 32px;
+    gap: 10px;
+    border-radius: 8px;
+    background: #F00;
+    border: 0px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    margin: auto auto auto 580px;
+}
