@@ -3,6 +3,7 @@
     font-family: 'Merriweather', serif;
 }
 
+/* banner section */
 .banner {
     background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../images/Banner\ Image.png);
     background-repeat: no-repeat;
@@ -29,5 +30,47 @@
     font-size: 72px;
     font-weight: 900;
     line-height: 95px;
+    margin: auto;
+}
+
+/* New Year Discount */
+.discount {
+    padding: 120px 398px 0px 398px;
+    margin: 0px auto;
+}
+
+.discount h2 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    text-align: center;
+    margin: auto;
+}
+
+.discount h4 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin: auto;
+    padding-top: 30px;
+}
+
+.discount h3 {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin: auto;
+    padding-top: 15px;
+}
+
+.discount img {
+    width: 805px;
+    height: 500px;
+    padding-top: 45px;
     margin: auto;
 }
