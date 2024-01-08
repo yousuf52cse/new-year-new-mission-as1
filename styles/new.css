@@ -467,3 +467,75 @@ span {
     margin-top: 30px;
     margin-left: 100px;
 }
+
+.footer-2 {
+    width: 100%;
+    height: 609px;
+    background: #070211;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.address {
+    width: 87%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+}
+
+.home {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    /* 166.667% */
+    width: 375px;
+    height: 80px;
+}
+
+.tele {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    margin-right: 80px;
+    /* 166.667% */
+}
+
+.fa-solid {
+    margin: auto;
+    margin-right: 10px;
+}
+
+.hr {
+    margin: auto;
+    width: 87%;
+}
+
+.social-icon {
+    width: 87%;
+    margin: auto;
+    display: flex;
+    /* text-align: center; */
+    justify-content: center;
+    margin-top: 50px;
+    gap: 20px;
+    margin-bottom: 50px;
+}
+
+.copyright {
+    width: 87%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
