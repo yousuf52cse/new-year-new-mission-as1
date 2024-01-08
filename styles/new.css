@@ -328,8 +328,8 @@ span {
     /* background: url('/images/Rectangle\ 1.png'); */
     /* background-repeat: no-repeat; */
     /* background-size: cover; */
-    background: url('../images/Rectangle\ 1.png'), lightgray -59.98px 0px / 151.553% 100% no-repeat;
-    width: 429px;
+    background: url('../images/Rectangle\ 1.png');
+    width: 430px;
     height: 433px;
     margin-left: 81px;
     margin-top: 40px;
