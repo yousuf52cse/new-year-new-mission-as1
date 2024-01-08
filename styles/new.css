@@ -183,7 +183,7 @@
     margin: auto;
     margin-top: 90px;
     /* padding-top: 120px; */
-    background-color: aqua;
+    /* background-color: aqua; */
 }
 
 .coming-soon {
@@ -342,4 +342,54 @@ span {
     width: 210px;
     height: 206px;
     flex-shrink: 0;
+}
+
+
+/* Portfolio section */
+#portfolio {
+    width: 87%;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.port-cont h4 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin: auto;
+}
+
+.port-cont h2 {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.port-cont p {
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+
+}
+
+.port-img {
+    width: 400px;
+    height: 425px;
+    border-radius: 16px;
+}
+.port-img1{
+    display: flex;
+    gap: 15px;
+    padding: 10px;
+}
+.port-img2{
+    display: flex;
+    gap: 15px;
+    padding: 10px;
 }
